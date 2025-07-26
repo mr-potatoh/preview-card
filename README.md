@@ -21,7 +21,7 @@ A clean and responsive blog preview card built with **HTML** and **CSS**, based 
 
 ## 📚 Challenge Info
 
-This project is based on the [Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ck8sHcK_0) from Frontend Mentor — great for practicing layout, typography, and responsiveness.
+This project is based on the [Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) from Frontend Mentor — great for practicing layout, typography, and responsiveness.
 
 ## 🙌 Acknowledgements
 
